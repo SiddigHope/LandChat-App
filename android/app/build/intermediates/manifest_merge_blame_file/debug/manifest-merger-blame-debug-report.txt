@@ -1,0 +1,540 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.landchat"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->E:\Apps\Landchat\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->E:\Apps\Landchat\android\app\src\debug\AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:4:5-67
+12-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:5:5-65
+13-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:5:22-62
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:6:5-80
+14-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:6:22-78
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->[com.facebook.flipper:flipper:0.54.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\1c7787ec82631e0394972c76bdabe608\flipper-0.54.0\AndroidManifest.xml:16:5-76
+15-->[com.facebook.flipper:flipper:0.54.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\1c7787ec82631e0394972c76bdabe608\flipper-0.54.0\AndroidManifest.xml:16:22-73
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:11:5-68
+16-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:11:22-65
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:12:5-79
+17-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:12:22-76
+18    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+18-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:13:5-81
+18-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:13:22-78
+19    <uses-permission android:name="android.permission.VIBRATE" />
+19-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:14:5-66
+19-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:14:22-63
+20    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" /> <!-- TODO(salakar) Not sure if this should be part of the package manifest or leave to users app manifest code? -->
+20-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:16:5-77
+20-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:16:22-74
+21    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+21-->[:react-native-firebase_storage] E:\Apps\Landchat\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-80
+21-->[:react-native-firebase_storage] E:\Apps\Landchat\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-77
+22
+23    <application
+23-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:8:5-28:19
+24        android:name="com.landchat.MainApplication"
+24-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:9:7-38
+25        android:allowBackup="false"
+25-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:13:7-34
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.3.2] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\f52ab1b1c1a6a08a00d0ab9466319bb3\core-1.3.2\AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:icon="@mipmap/chat"
+28-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:11:7-34
+29        android:label="@string/app_name"
+29-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:10:7-39
+30        android:roundIcon="@mipmap/chat"
+30-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:12:7-39
+31        android:theme="@style/AppTheme"
+31-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:15:7-38
+32        android:usesCleartextTraffic="true" >
+32-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:14:7-42
+33        <activity
+33-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:16:7-26:18
+34            android:name="com.landchat.MainActivity"
+34-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:17:9-37
+35            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+35-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:19:9-86
+36            android:label="@string/app_name"
+36-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:18:9-41
+37            android:launchMode="singleTask"
+37-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:20:9-40
+38            android:windowSoftInputMode="adjustResize" >
+38-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:21:9-51
+39            <intent-filter>
+39-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:22:9-25:25
+40                <action android:name="android.intent.action.MAIN" />
+40-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:23:13-65
+40-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:23:21-62
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:24:13-73
+42-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:24:23-70
+43            </intent-filter>
+44        </activity>
+45        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+45-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:27:7-84
+45-->E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:27:17-81
+46
+47        <provider
+47-->[:react-native-image-picker] E:\Apps\Landchat\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-18:20
+48            android:name="com.imagepicker.FileProvider"
+48-->[:react-native-image-picker] E:\Apps\Landchat\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-56
+49            android:authorities="com.landchat.provider"
+49-->[:react-native-image-picker] E:\Apps\Landchat\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-60
+50            android:exported="false"
+50-->[:react-native-image-picker] E:\Apps\Landchat\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-37
+51            android:grantUriPermissions="true" >
+51-->[:react-native-image-picker] E:\Apps\Landchat\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-47
+52            <meta-data
+52-->[:react-native-image-picker] E:\Apps\Landchat\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-17:58
+53                android:name="android.support.FILE_PROVIDER_PATHS"
+53-->[:react-native-image-picker] E:\Apps\Landchat\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:17-67
+54                android:resource="@xml/provider_paths" />
+54-->[:react-native-image-picker] E:\Apps\Landchat\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-55
+55        </provider>
+56        <provider
+56-->[:notifee_react-native] E:\Apps\Landchat\node_modules\@notifee\react-native\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-16:40
+57            android:name="io.invertase.notifee.NotifeeInitProvider"
+57-->[:notifee_react-native] E:\Apps\Landchat\node_modules\@notifee\react-native\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-68
+58            android:authorities="com.landchat.notifee-init-provider"
+58-->[:notifee_react-native] E:\Apps\Landchat\node_modules\@notifee\react-native\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-73
+59            android:exported="false"
+59-->[:notifee_react-native] E:\Apps\Landchat\node_modules\@notifee\react-native\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+60            android:initOrder="-100" /> <!-- Receiver Service -->
+60-->[:notifee_react-native] E:\Apps\Landchat\node_modules\@notifee\react-native\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-37
+61        <service
+61-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:21:9-23:40
+62            android:name="app.notifee.core.ReceiverService"
+62-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:22:13-60
+63            android:exported="false" /> <!-- Foreground Service -->
+63-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:23:13-37
+64        <service
+64-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:26:9-28:40
+65            android:name="app.notifee.core.ForegroundService"
+65-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:27:13-62
+66            android:exported="false" /> <!-- Broadcast Receiver -->
+66-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:28:13-37
+67        <receiver
+67-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:31:9-39:20
+68            android:name="app.notifee.core.BlockStateBroadcastReceiver"
+68-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:32:13-72
+69            android:exported="false" >
+69-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:33:13-37
+70            <intent-filter>
+70-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:34:13-38:29
+71                <action android:name="android.app.action.APP_BLOCK_STATE_CHANGED" />
+71-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:35:17-85
+71-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:35:25-82
+72                <action android:name="android.app.action.NOTIFICATION_CHANNEL_BLOCK_STATE_CHANGED" />
+72-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:36:17-102
+72-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:36:25-99
+73                <action android:name="android.app.action.NOTIFICATION_CHANNEL_GROUP_BLOCK_STATE_CHANGED" />
+73-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:37:17-108
+73-->[notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:37:25-105
+74            </intent-filter>
+75        </receiver>
+76
+77        <service
+77-->[com.google.firebase:firebase-firestore:22.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\af4263f3ebd287f912db9378808ca9c3\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:17:9-23:19
+78            android:name="com.google.firebase.components.ComponentDiscoveryService"
+78-->[com.google.firebase:firebase-firestore:22.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\af4263f3ebd287f912db9378808ca9c3\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:18:13-84
+79            android:directBootAware="true"
+79-->[com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:35:13-43
+80            android:exported="false" >
+80-->[com.google.firebase:firebase-firestore:22.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\af4263f3ebd287f912db9378808ca9c3\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:19:13-37
+81            <meta-data
+81-->[com.google.firebase:firebase-firestore:22.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\af4263f3ebd287f912db9378808ca9c3\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:20:13-22:85
+82                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+82-->[com.google.firebase:firebase-firestore:22.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\af4263f3ebd287f912db9378808ca9c3\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:21:17-111
+83                android:value="com.google.firebase.components.ComponentRegistrar" />
+83-->[com.google.firebase:firebase-firestore:22.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\af4263f3ebd287f912db9378808ca9c3\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:22:17-82
+84            <meta-data
+84-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:85:13-87:85
+85                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+85-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:86:17-109
+86                android:value="com.google.firebase.components.ComponentRegistrar" />
+86-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:87:17-82
+87            <meta-data
+87-->[com.google.firebase:firebase-storage:19.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\28a420cb0c2eb37a546e840ecd6f4230\firebase-storage-19.2.0\AndroidManifest.xml:33:13-35:85
+88                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+88-->[com.google.firebase:firebase-storage:19.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\28a420cb0c2eb37a546e840ecd6f4230\firebase-storage-19.2.0\AndroidManifest.xml:34:17-107
+89                android:value="com.google.firebase.components.ComponentRegistrar" />
+89-->[com.google.firebase:firebase-storage:19.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\28a420cb0c2eb37a546e840ecd6f4230\firebase-storage-19.2.0\AndroidManifest.xml:35:17-82
+90        </service>
+91
+92        <provider
+92-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:31:9-37:35
+93            android:name="androidx.work.impl.WorkManagerInitializer"
+93-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:32:13-69
+94            android:authorities="com.landchat.workmanager-init"
+94-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:33:13-68
+95            android:directBootAware="false"
+95-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:34:13-44
+96            android:exported="false"
+96-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:35:13-37
+97            android:multiprocess="true" />
+97-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:36:13-40
+98
+99        <service
+99-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:39:9-44:35
+100            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+100-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:40:13-88
+101            android:directBootAware="false"
+101-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:41:13-44
+102            android:enabled="@bool/enable_system_alarm_service_default"
+102-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:42:13-72
+103            android:exported="false" />
+103-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:43:13-37
+104        <service
+104-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:45:9-51:35
+105            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+105-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:46:13-84
+106            android:directBootAware="false"
+106-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:47:13-44
+107            android:enabled="@bool/enable_system_job_service_default"
+107-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:48:13-70
+108            android:exported="true"
+108-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:49:13-36
+109            android:permission="android.permission.BIND_JOB_SERVICE" />
+109-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:50:13-69
+110        <service
+110-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:52:9-57:35
+111            android:name="androidx.work.impl.foreground.SystemForegroundService"
+111-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:53:13-81
+112            android:directBootAware="false"
+112-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:54:13-44
+113            android:enabled="@bool/enable_system_foreground_service_default"
+113-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:55:13-77
+114            android:exported="false" />
+114-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:56:13-37
+115
+116        <receiver
+116-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:59:9-64:35
+117            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+117-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:60:13-88
+118            android:directBootAware="false"
+118-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:61:13-44
+119            android:enabled="true"
+119-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:62:13-35
+120            android:exported="false" />
+120-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:63:13-37
+121        <receiver
+121-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:65:9-75:20
+122            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+122-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:66:13-106
+123            android:directBootAware="false"
+123-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:67:13-44
+124            android:enabled="false"
+124-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:68:13-36
+125            android:exported="false" >
+125-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:69:13-37
+126            <intent-filter>
+126-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:71:13-74:29
+127                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+127-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:72:17-87
+127-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:72:25-84
+128                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+128-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:73:17-90
+128-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:73:25-87
+129            </intent-filter>
+130        </receiver>
+131        <receiver
+131-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:76:9-86:20
+132            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+132-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:77:13-104
+133            android:directBootAware="false"
+133-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:78:13-44
+134            android:enabled="false"
+134-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:79:13-36
+135            android:exported="false" >
+135-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:80:13-37
+136            <intent-filter>
+136-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:82:13-85:29
+137                <action android:name="android.intent.action.BATTERY_OKAY" />
+137-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:83:17-77
+137-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:83:25-74
+138                <action android:name="android.intent.action.BATTERY_LOW" />
+138-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:84:17-76
+138-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:84:25-73
+139            </intent-filter>
+140        </receiver>
+141        <receiver
+141-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:87:9-97:20
+142            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+142-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:88:13-104
+143            android:directBootAware="false"
+143-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:89:13-44
+144            android:enabled="false"
+144-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:90:13-36
+145            android:exported="false" >
+145-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:91:13-37
+146            <intent-filter>
+146-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:93:13-96:29
+147                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+147-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:94:17-83
+147-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:94:25-80
+148                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+148-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:95:17-82
+148-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:95:25-79
+149            </intent-filter>
+150        </receiver>
+151        <receiver
+151-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:98:9-107:20
+152            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+152-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:99:13-103
+153            android:directBootAware="false"
+153-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:100:13-44
+154            android:enabled="false"
+154-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:101:13-36
+155            android:exported="false" >
+155-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:102:13-37
+156            <intent-filter>
+156-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:104:13-106:29
+157                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+157-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:105:17-79
+157-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:105:25-76
+158            </intent-filter>
+159        </receiver>
+160        <receiver
+160-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:108:9-119:20
+161            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+161-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:109:13-88
+162            android:directBootAware="false"
+162-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:110:13-44
+163            android:enabled="false"
+163-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:111:13-36
+164            android:exported="false" >
+164-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:112:13-37
+165            <intent-filter>
+165-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:114:13-118:29
+166                <action android:name="android.intent.action.BOOT_COMPLETED" />
+166-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:115:17-79
+166-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:115:25-76
+167                <action android:name="android.intent.action.TIME_SET" />
+167-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:116:17-73
+167-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:116:25-70
+168                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+168-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:117:17-81
+168-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:117:25-78
+169            </intent-filter>
+170        </receiver>
+171        <receiver
+171-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:120:9-129:20
+172            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+172-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:121:13-99
+173            android:directBootAware="false"
+173-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:122:13-44
+174            android:enabled="@bool/enable_system_alarm_service_default"
+174-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:123:13-72
+175            android:exported="false" >
+175-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:124:13-37
+176            <intent-filter>
+176-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:126:13-128:29
+177                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+177-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:127:17-98
+177-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:127:25-95
+178            </intent-filter>
+179        </receiver>
+180        <receiver
+180-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:130:9-140:20
+181            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+181-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:131:13-78
+182            android:directBootAware="false"
+182-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:132:13-44
+183            android:enabled="true"
+183-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:133:13-35
+184            android:exported="true"
+184-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:134:13-36
+185            android:permission="android.permission.DUMP" >
+185-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:135:13-57
+186            <intent-filter>
+186-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:137:13-139:29
+187                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+187-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:138:17-88
+187-->[androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:138:25-85
+188            </intent-filter>
+189        </receiver>
+190
+191        <activity
+191-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:23:9-27:75
+192            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+192-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:24:13-93
+193            android:excludeFromRecents="true"
+193-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:25:13-46
+194            android:exported="false"
+194-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:26:13-37
+195            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+195-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:27:13-72
+196        <!--
+197            Service handling Google Sign-In user revocation. For apps that do not integrate with
+198            Google Sign-In, this service will never be started.
+199        -->
+200        <service
+200-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:33:9-37:51
+201            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+201-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:34:13-89
+202            android:exported="true"
+202-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:35:13-36
+203            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+203-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:36:13-107
+204            android:visibleToInstantApps="true" />
+204-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:37:13-48
+205
+206        <activity
+206-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:27:9-34:50
+207            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+207-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:28:13-85
+208            android:excludeFromRecents="true"
+208-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:29:13-46
+209            android:exported="true"
+209-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:30:13-36
+210            android:launchMode="singleTask"
+210-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:31:13-44
+211            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+211-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:32:13-102
+212            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+212-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:33:13-72
+213        <activity
+213-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:35:9-52:20
+214            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+214-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:36:13-80
+215            android:excludeFromRecents="true"
+215-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:37:13-46
+216            android:exported="true"
+216-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:38:13-36
+217            android:launchMode="singleTask"
+217-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:39:13-44
+218            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+218-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:40:13-72
+219            <intent-filter>
+219-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:41:13-51:29
+220                <action android:name="android.intent.action.VIEW" />
+220-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:42:17-69
+220-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:42:25-66
+221
+222                <category android:name="android.intent.category.DEFAULT" />
+222-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:44:17-76
+222-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:44:27-73
+223                <category android:name="android.intent.category.BROWSABLE" />
+223-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:45:17-78
+223-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:45:27-75
+224
+225                <data
+225-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:47:17-50:51
+226                    android:host="firebase.auth"
+226-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:48:21-49
+227                    android:path="/"
+227-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:49:21-37
+228                    android:scheme="genericidp" />
+228-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:50:21-48
+229            </intent-filter>
+230        </activity>
+231        <activity
+231-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:53:9-70:20
+232            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+232-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:54:13-79
+233            android:excludeFromRecents="true"
+233-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:55:13-46
+234            android:exported="true"
+234-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:56:13-36
+235            android:launchMode="singleTask"
+235-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:57:13-44
+236            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+236-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:58:13-72
+237            <intent-filter>
+237-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:59:13-69:29
+238                <action android:name="android.intent.action.VIEW" />
+238-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:42:17-69
+238-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:42:25-66
+239
+240                <category android:name="android.intent.category.DEFAULT" />
+240-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:44:17-76
+240-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:44:27-73
+241                <category android:name="android.intent.category.BROWSABLE" />
+241-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:45:17-78
+241-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:45:27-75
+242
+243                <data
+243-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:47:17-50:51
+244                    android:host="firebase.auth"
+244-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:48:21-49
+245                    android:path="/"
+245-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:49:21-37
+246                    android:scheme="recaptcha" />
+246-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:50:21-48
+247            </intent-filter>
+248        </activity>
+249
+250        <service
+250-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:72:9-81:19
+251            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
+251-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:73:13-101
+252            android:enabled="true"
+252-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:74:13-35
+253            android:exported="false" >
+253-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:75:13-37
+254            <intent-filter>
+254-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:76:13-80:29
+255                <action android:name="com.google.firebase.auth.api.gms.service.START" />
+255-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:77:17-89
+255-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:77:25-86
+256
+257                <category android:name="android.intent.category.DEFAULT" />
+257-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:44:17-76
+257-->[com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:44:27-73
+258            </intent-filter>
+259        </service>
+260
+261        <provider
+261-->[com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:26:9-31:39
+262            android:name="com.google.firebase.provider.FirebaseInitProvider"
+262-->[com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:27:13-77
+263            android:authorities="com.landchat.firebaseinitprovider"
+263-->[com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:28:13-72
+264            android:directBootAware="true"
+264-->[com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:29:13-43
+265            android:exported="false"
+265-->[com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:30:13-37
+266            android:initOrder="100" />
+266-->[com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:31:13-36
+267
+268        <activity
+268-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\0b6249500b8009a9eb57f214c32dfafc\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+269            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+269-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\0b6249500b8009a9eb57f214c32dfafc\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+270            android:exported="false"
+270-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\0b6249500b8009a9eb57f214c32dfafc\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+271            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+271-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\0b6249500b8009a9eb57f214c32dfafc\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+272
+273        <meta-data
+273-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\8db0c209c952acbdb50ee2913d2a485e\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
+274            android:name="com.google.android.gms.version"
+274-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\8db0c209c952acbdb50ee2913d2a485e\jetified-play-services-basement-17.3.0\AndroidManifest.xml:24:13-58
+275            android:value="@integer/google_play_services_version" />
+275-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\8db0c209c952acbdb50ee2913d2a485e\jetified-play-services-basement-17.3.0\AndroidManifest.xml:25:13-66
+276
+277        <service
+277-->[androidx.room:room-runtime:2.2.5] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\798bfc5fb31098c1c5f6c1d8f18439f9\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+278            android:name="androidx.room.MultiInstanceInvalidationService"
+278-->[androidx.room:room-runtime:2.2.5] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\798bfc5fb31098c1c5f6c1d8f18439f9\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+279            android:directBootAware="true"
+279-->[androidx.room:room-runtime:2.2.5] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\798bfc5fb31098c1c5f6c1d8f18439f9\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+280            android:exported="false" />
+280-->[androidx.room:room-runtime:2.2.5] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\798bfc5fb31098c1c5f6c1d8f18439f9\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+281    </application>
+282
+283</manifest>

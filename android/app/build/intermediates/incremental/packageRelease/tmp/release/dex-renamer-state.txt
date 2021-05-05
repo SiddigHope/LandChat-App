@@ -1,0 +1,7 @@
+#Mon Dec 14 20:18:39 GMT+02:00 2020
+base.0=E\:\\Apps\\Landchat\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\Apps\\Landchat\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes2.dex

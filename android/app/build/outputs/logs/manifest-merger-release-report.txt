@@ -1,0 +1,878 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:1:1-30:12
+MERGED from [:react-native-image-picker] E:\Apps\Landchat\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-21:12
+MERGED from [:notifee_react-native] E:\Apps\Landchat\node_modules\@notifee\react-native\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-19:12
+MERGED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:2:1-42:12
+MERGED from [:react-native-community_async-storage] E:\Apps\Landchat\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_netinfo] E:\Apps\Landchat\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-community_viewpager] E:\Apps\Landchat\node_modules\@react-native-community\viewpager\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase_auth] E:\Apps\Landchat\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-firebase_firestore] E:\Apps\Landchat\node_modules\@react-native-firebase\firestore\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-firebase_storage] E:\Apps\Landchat\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-firebase_app] E:\Apps\Landchat\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:lottie-react-native] E:\Apps\Landchat\node_modules\lottie-react-native\src\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] E:\Apps\Landchat\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] E:\Apps\Landchat\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] E:\Apps\Landchat\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] E:\Apps\Landchat\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\fd4fa04b940687070f364888b086b7a0\jetified-react-native-0.63.4\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\37b6f551bc5ae153b0b627de8f563815\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\d8031ba7ad89eac391d4216992656ff2\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6dd6245206e34676e1ee3aa6ee0f68c9\android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] E:\Apps\Landchat\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\110d69c2d580d6a21f1c42864c92b9b1\lottie-3.4.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\863e0c3c6716935cd3657ad638fd992d\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\1cb9b9ea592aa2ea85233be252327dcf\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\454c96154d0a2efb5f34ced0245cf76d\fresco-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\559ddc4b7f576fedc63e05921b88e895\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6c8969c989a883c90728abf2f80f32fb\drawee-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\5a2410130ba40b82b4f9bed40d7f483e\nativeimagefilters-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\13dda75bcf2643fb917d5dc46398410e\imagepipeline-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\c416dd8728d3ebccaf2e74e1e1aab223\nativeimagetranscoder-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\95ee73f6c014e94cc84e3a19f64125f8\imagepipeline-base-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\c34148f30cbc3e974eff21cbfb6a112a\soloader-0.9.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\af4263f3ebd287f912db9378808ca9c3\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:2:1-26:12
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\3d6e8184308acb69f0d989fbe3f6ef92\grpc-android-1.28.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\b1b165607eae60d70e4267b97e24514b\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\28888a6f6660db47b3788df392c672a7\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\efb592adf2592d134c27edc4a56e19d2\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:17:1-143:12
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:17:1-91:12
+MERGED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\28a420cb0c2eb37a546e840ecd6f4230\firebase-storage-19.2.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\e9f2dbca24f831fa7849cbf72c3aa8b6\firebase-auth-interop-19.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\937c92424a6f323df9bafb2747bbb019\play-services-auth-base-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\19a3d6e8a330892e01e1e108f5bfbbfd\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\51fdcc2a8722dee7ce44371c91608f2d\play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\59d6520cce4443e67a4dbedb8adaf428\firebase-database-collection-17.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\0b6249500b8009a9eb57f214c32dfafc\play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\831761ef8764adf904ece5f711eb8bcc\play-services-tasks-17.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\8db0c209c952acbdb50ee2913d2a485e\jetified-play-services-basement-17.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\8cd6316737e8f518184be95be51b9ee8\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\37aaca75d3d19faa6fb296103cea95d8\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\c062602fe4e1f75f724363688044d993\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\faa15558a5d57e35e462c9e1f0248694\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\c99af001058cd5265376dded8456f828\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\40f1c5d439eea30faeaafe93e7bdf45f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\89bcabef273c834c0566b445ed28172c\activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\4300f0cd89d6453d731712a999b6e53f\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\e0a79d4379c4eef3803202a497c19313\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\820068d4be612586a05a9daff9be7b77\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6bd464ed06f075f4e42b3fde6a89e60a\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\f52ab1b1c1a6a08a00d0ab9466319bb3\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\798bfc5fb31098c1c5f6c1d8f18439f9\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\fcb099936d34860825d1beed162ff34f\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6c1ea502920e9dce75590383cb6e38fb\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2786c84c1e653e40bd67508414ca298f\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\3b41f2ef3d4a30256bbd9d1017371108\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\db36fbbf4470b1ce63fe644e40ae81d3\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\304e6293e0820147023aa187c0f862e1\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\7ce8a2eb9e81825ec9bcc373c597a746\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\342cdabb5ac546ae8caf9705533bd005\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2ef959591ee3dfd7e7d0f130ebacb270\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\babedcb26ba2505096ea9fb87ec93180\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\c05856bc9c2413a27cafe52aac017591\lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\124ee19a63f3e171c196264ecc845daa\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\4ce17f8b4390b23da9bedc3cee010ec1\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\3d5c1e204ac62dc0f6d5059f5e3eaa42\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\873a323af59f5d5324570fd511719c77\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\5e0d5a8d804a6d508671aa9ae1833359\jetified-fbcore-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\3f41120997d1fa393dba12a1d9ff852f\protolite-well-known-types-17.1.0\AndroidManifest.xml:2:1-11:12
+INJECTED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:2:3-25
+		INJECTED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:15:5-67
+MERGED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase_auth] E:\Apps\Landchat\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_auth] E:\Apps\Landchat\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_storage] E:\Apps\Landchat\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_storage] E:\Apps\Landchat\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-67
+MERGED from [:lottie-react-native] E:\Apps\Landchat\node_modules\lottie-react-native\src\android\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-67
+MERGED from [:lottie-react-native] E:\Apps\Landchat\node_modules\lottie-react-native\src\android\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\af4263f3ebd287f912db9378808ca9c3\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\af4263f3ebd287f912db9378808ca9c3\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\28a420cb0c2eb37a546e840ecd6f4230\firebase-storage-19.2.0\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\28a420cb0c2eb37a546e840ecd6f4230\firebase-storage-19.2.0\AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:6:5-80
+MERGED from [:react-native-firebase_storage] E:\Apps\Landchat\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:5-81
+MERGED from [:react-native-firebase_storage] E:\Apps\Landchat\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:8:5-28:19
+MERGED from [:react-native-image-picker] E:\Apps\Landchat\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] E:\Apps\Landchat\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-19:19
+MERGED from [:notifee_react-native] E:\Apps\Landchat\node_modules\@notifee\react-native\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-17:19
+MERGED from [:notifee_react-native] E:\Apps\Landchat\node_modules\@notifee\react-native\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-17:19
+MERGED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:18:5-40:19
+MERGED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:18:5-40:19
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\fd4fa04b940687070f364888b086b7a0\jetified-react-native-0.63.4\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\fd4fa04b940687070f364888b086b7a0\jetified-react-native-0.63.4\AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\110d69c2d580d6a21f1c42864c92b9b1\lottie-3.4.0\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\110d69c2d580d6a21f1c42864c92b9b1\lottie-3.4.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\863e0c3c6716935cd3657ad638fd992d\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\863e0c3c6716935cd3657ad638fd992d\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\c34148f30cbc3e974eff21cbfb6a112a\soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\c34148f30cbc3e974eff21cbfb6a112a\soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\af4263f3ebd287f912db9378808ca9c3\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\af4263f3ebd287f912db9378808ca9c3\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:16:5-24:19
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:30:5-141:19
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:30:5-141:19
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:26:5-89:19
+MERGED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:26:5-89:19
+MERGED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\28a420cb0c2eb37a546e840ecd6f4230\firebase-storage-19.2.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\28a420cb0c2eb37a546e840ecd6f4230\firebase-storage-19.2.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\e9f2dbca24f831fa7849cbf72c3aa8b6\firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\e9f2dbca24f831fa7849cbf72c3aa8b6\firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\51fdcc2a8722dee7ce44371c91608f2d\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\51fdcc2a8722dee7ce44371c91608f2d\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\0b6249500b8009a9eb57f214c32dfafc\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\0b6249500b8009a9eb57f214c32dfafc\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\831761ef8764adf904ece5f711eb8bcc\play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\831761ef8764adf904ece5f711eb8bcc\play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\8db0c209c952acbdb50ee2913d2a485e\jetified-play-services-basement-17.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\8db0c209c952acbdb50ee2913d2a485e\jetified-play-services-basement-17.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.2] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\f52ab1b1c1a6a08a00d0ab9466319bb3\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\f52ab1b1c1a6a08a00d0ab9466319bb3\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\798bfc5fb31098c1c5f6c1d8f18439f9\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\798bfc5fb31098c1c5f6c1d8f18439f9\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2786c84c1e653e40bd67508414ca298f\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2786c84c1e653e40bd67508414ca298f\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\f52ab1b1c1a6a08a00d0ab9466319bb3\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:10:7-39
+	android:roundIcon
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:12:7-39
+	android:icon
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:allowBackup
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:15:7-38
+	android:usesCleartextTraffic
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:14:7-42
+	android:name
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:9:7-38
+activity#com.landchat.MainActivity
+ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:16:7-26:18
+	android:label
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:18:9-41
+	android:launchMode
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:20:9-40
+	android:windowSoftInputMode
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:21:9-51
+	android:configChanges
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:19:9-86
+	android:name
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:17:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:22:9-25:25
+action#android.intent.action.MAIN
+ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:23:21-62
+category#android.intent.category.LAUNCHER
+ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:24:13-73
+	android:name
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:24:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:27:7-84
+	android:name
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml:27:17-81
+uses-sdk
+INJECTED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-image-picker] E:\Apps\Landchat\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] E:\Apps\Landchat\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:notifee_react-native] E:\Apps\Landchat\node_modules\@notifee\react-native\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:notifee_react-native] E:\Apps\Landchat\node_modules\@notifee\react-native\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:7:5-9:41
+MERGED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_async-storage] E:\Apps\Landchat\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] E:\Apps\Landchat\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] E:\Apps\Landchat\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] E:\Apps\Landchat\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_viewpager] E:\Apps\Landchat\node_modules\@react-native-community\viewpager\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_viewpager] E:\Apps\Landchat\node_modules\@react-native-community\viewpager\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_auth] E:\Apps\Landchat\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_auth] E:\Apps\Landchat\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_firestore] E:\Apps\Landchat\node_modules\@react-native-firebase\firestore\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_firestore] E:\Apps\Landchat\node_modules\@react-native-firebase\firestore\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_storage] E:\Apps\Landchat\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_storage] E:\Apps\Landchat\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] E:\Apps\Landchat\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] E:\Apps\Landchat\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:lottie-react-native] E:\Apps\Landchat\node_modules\lottie-react-native\src\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:lottie-react-native] E:\Apps\Landchat\node_modules\lottie-react-native\src\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] E:\Apps\Landchat\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] E:\Apps\Landchat\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] E:\Apps\Landchat\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] E:\Apps\Landchat\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] E:\Apps\Landchat\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] E:\Apps\Landchat\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] E:\Apps\Landchat\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] E:\Apps\Landchat\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\fd4fa04b940687070f364888b086b7a0\jetified-react-native-0.63.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\fd4fa04b940687070f364888b086b7a0\jetified-react-native-0.63.4\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\37b6f551bc5ae153b0b627de8f563815\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\37b6f551bc5ae153b0b627de8f563815\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\d8031ba7ad89eac391d4216992656ff2\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\d8031ba7ad89eac391d4216992656ff2\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6dd6245206e34676e1ee3aa6ee0f68c9\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6dd6245206e34676e1ee3aa6ee0f68c9\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] E:\Apps\Landchat\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] E:\Apps\Landchat\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\110d69c2d580d6a21f1c42864c92b9b1\lottie-3.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\110d69c2d580d6a21f1c42864c92b9b1\lottie-3.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\863e0c3c6716935cd3657ad638fd992d\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\863e0c3c6716935cd3657ad638fd992d\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\1cb9b9ea592aa2ea85233be252327dcf\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\1cb9b9ea592aa2ea85233be252327dcf\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\454c96154d0a2efb5f34ced0245cf76d\fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\454c96154d0a2efb5f34ced0245cf76d\fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\559ddc4b7f576fedc63e05921b88e895\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\559ddc4b7f576fedc63e05921b88e895\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6c8969c989a883c90728abf2f80f32fb\drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6c8969c989a883c90728abf2f80f32fb\drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\5a2410130ba40b82b4f9bed40d7f483e\nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\5a2410130ba40b82b4f9bed40d7f483e\nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\13dda75bcf2643fb917d5dc46398410e\imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\13dda75bcf2643fb917d5dc46398410e\imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\c416dd8728d3ebccaf2e74e1e1aab223\nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\c416dd8728d3ebccaf2e74e1e1aab223\nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\95ee73f6c014e94cc84e3a19f64125f8\imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\95ee73f6c014e94cc84e3a19f64125f8\imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\c34148f30cbc3e974eff21cbfb6a112a\soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\c34148f30cbc3e974eff21cbfb6a112a\soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\af4263f3ebd287f912db9378808ca9c3\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\af4263f3ebd287f912db9378808ca9c3\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\3d6e8184308acb69f0d989fbe3f6ef92\grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\3d6e8184308acb69f0d989fbe3f6ef92\grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\b1b165607eae60d70e4267b97e24514b\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\b1b165607eae60d70e4267b97e24514b\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\28888a6f6660db47b3788df392c672a7\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\28888a6f6660db47b3788df392c672a7\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\efb592adf2592d134c27edc4a56e19d2\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\efb592adf2592d134c27edc4a56e19d2\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\28a420cb0c2eb37a546e840ecd6f4230\firebase-storage-19.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\28a420cb0c2eb37a546e840ecd6f4230\firebase-storage-19.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\e9f2dbca24f831fa7849cbf72c3aa8b6\firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\e9f2dbca24f831fa7849cbf72c3aa8b6\firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\937c92424a6f323df9bafb2747bbb019\play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\937c92424a6f323df9bafb2747bbb019\play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\19a3d6e8a330892e01e1e108f5bfbbfd\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\19a3d6e8a330892e01e1e108f5bfbbfd\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\51fdcc2a8722dee7ce44371c91608f2d\play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\51fdcc2a8722dee7ce44371c91608f2d\play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\59d6520cce4443e67a4dbedb8adaf428\firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\59d6520cce4443e67a4dbedb8adaf428\firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\0b6249500b8009a9eb57f214c32dfafc\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\0b6249500b8009a9eb57f214c32dfafc\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\831761ef8764adf904ece5f711eb8bcc\play-services-tasks-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\831761ef8764adf904ece5f711eb8bcc\play-services-tasks-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\8db0c209c952acbdb50ee2913d2a485e\jetified-play-services-basement-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\8db0c209c952acbdb50ee2913d2a485e\jetified-play-services-basement-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\8cd6316737e8f518184be95be51b9ee8\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\8cd6316737e8f518184be95be51b9ee8\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\37aaca75d3d19faa6fb296103cea95d8\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\37aaca75d3d19faa6fb296103cea95d8\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\c062602fe4e1f75f724363688044d993\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\c062602fe4e1f75f724363688044d993\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\faa15558a5d57e35e462c9e1f0248694\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\faa15558a5d57e35e462c9e1f0248694\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\c99af001058cd5265376dded8456f828\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\c99af001058cd5265376dded8456f828\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\40f1c5d439eea30faeaafe93e7bdf45f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\40f1c5d439eea30faeaafe93e7bdf45f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\89bcabef273c834c0566b445ed28172c\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\89bcabef273c834c0566b445ed28172c\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\4300f0cd89d6453d731712a999b6e53f\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\4300f0cd89d6453d731712a999b6e53f\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\e0a79d4379c4eef3803202a497c19313\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\e0a79d4379c4eef3803202a497c19313\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\820068d4be612586a05a9daff9be7b77\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\820068d4be612586a05a9daff9be7b77\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6bd464ed06f075f4e42b3fde6a89e60a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6bd464ed06f075f4e42b3fde6a89e60a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\f52ab1b1c1a6a08a00d0ab9466319bb3\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\f52ab1b1c1a6a08a00d0ab9466319bb3\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\798bfc5fb31098c1c5f6c1d8f18439f9\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\798bfc5fb31098c1c5f6c1d8f18439f9\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\fcb099936d34860825d1beed162ff34f\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\fcb099936d34860825d1beed162ff34f\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6c1ea502920e9dce75590383cb6e38fb\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6c1ea502920e9dce75590383cb6e38fb\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2786c84c1e653e40bd67508414ca298f\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2786c84c1e653e40bd67508414ca298f\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\3b41f2ef3d4a30256bbd9d1017371108\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\3b41f2ef3d4a30256bbd9d1017371108\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\db36fbbf4470b1ce63fe644e40ae81d3\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\db36fbbf4470b1ce63fe644e40ae81d3\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\304e6293e0820147023aa187c0f862e1\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\304e6293e0820147023aa187c0f862e1\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\7ce8a2eb9e81825ec9bcc373c597a746\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\7ce8a2eb9e81825ec9bcc373c597a746\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\342cdabb5ac546ae8caf9705533bd005\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\342cdabb5ac546ae8caf9705533bd005\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2ef959591ee3dfd7e7d0f130ebacb270\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2ef959591ee3dfd7e7d0f130ebacb270\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\babedcb26ba2505096ea9fb87ec93180\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\babedcb26ba2505096ea9fb87ec93180\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\c05856bc9c2413a27cafe52aac017591\lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\c05856bc9c2413a27cafe52aac017591\lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\124ee19a63f3e171c196264ecc845daa\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\124ee19a63f3e171c196264ecc845daa\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\4ce17f8b4390b23da9bedc3cee010ec1\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\4ce17f8b4390b23da9bedc3cee010ec1\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\3d5c1e204ac62dc0f6d5059f5e3eaa42\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\3d5c1e204ac62dc0f6d5059f5e3eaa42\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\873a323af59f5d5324570fd511719c77\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\873a323af59f5d5324570fd511719c77\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\5e0d5a8d804a6d508671aa9ae1833359\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\5e0d5a8d804a6d508671aa9ae1833359\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\3f41120997d1fa393dba12a1d9ff852f\protolite-well-known-types-17.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\3f41120997d1fa393dba12a1d9ff852f\protolite-well-known-types-17.1.0\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Apps\Landchat\android\app\src\main\AndroidManifest.xml
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] E:\Apps\Landchat\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] E:\Apps\Landchat\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] E:\Apps\Landchat\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] E:\Apps\Landchat\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] E:\Apps\Landchat\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] E:\Apps\Landchat\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:react-native-image-picker] E:\Apps\Landchat\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:17-55
+	android:name
+		ADDED from [:react-native-image-picker] E:\Apps\Landchat\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:17-67
+provider#io.invertase.notifee.NotifeeInitProvider
+ADDED from [:notifee_react-native] E:\Apps\Landchat\node_modules\@notifee\react-native\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:9-16:40
+	android:authorities
+		ADDED from [:notifee_react-native] E:\Apps\Landchat\node_modules\@notifee\react-native\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:13-73
+	android:exported
+		ADDED from [:notifee_react-native] E:\Apps\Landchat\node_modules\@notifee\react-native\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [:notifee_react-native] E:\Apps\Landchat\node_modules\@notifee\react-native\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:notifee_react-native] E:\Apps\Landchat\node_modules\@notifee\react-native\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:13-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:11:5-68
+MERGED from [:react-native-firebase_auth] E:\Apps\Landchat\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase_auth] E:\Apps\Landchat\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase_storage] E:\Apps\Landchat\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase_storage] E:\Apps\Landchat\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-68
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:12:5-79
+MERGED from [:react-native-community_netinfo] E:\Apps\Landchat\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-79
+MERGED from [:react-native-community_netinfo] E:\Apps\Landchat\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-79
+MERGED from [:react-native-firebase_auth] E:\Apps\Landchat\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase_auth] E:\Apps\Landchat\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase_storage] E:\Apps\Landchat\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase_storage] E:\Apps\Landchat\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\af4263f3ebd287f912db9378808ca9c3\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\af4263f3ebd287f912db9378808ca9c3\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\3d6e8184308acb69f0d989fbe3f6ef92\grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\3d6e8184308acb69f0d989fbe3f6ef92\grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\28a420cb0c2eb37a546e840ecd6f4230\firebase-storage-19.2.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\28a420cb0c2eb37a546e840ecd6f4230\firebase-storage-19.2.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:13:5-81
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:27:5-81
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:14:22-63
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:16:5-77
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:28:5-77
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:16:22-74
+service#app.notifee.core.ReceiverService
+ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:21:9-23:40
+	android:exported
+		ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:22:13-60
+service#app.notifee.core.ForegroundService
+ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:26:9-28:40
+	android:exported
+		ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:27:13-62
+receiver#app.notifee.core.BlockStateBroadcastReceiver
+ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:31:9-39:20
+	android:exported
+		ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:32:13-72
+intent-filter#action:name:android.app.action.APP_BLOCK_STATE_CHANGED+action:name:android.app.action.NOTIFICATION_CHANNEL_BLOCK_STATE_CHANGED+action:name:android.app.action.NOTIFICATION_CHANNEL_GROUP_BLOCK_STATE_CHANGED
+ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:34:13-38:29
+action#android.app.action.APP_BLOCK_STATE_CHANGED
+ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:35:17-85
+	android:name
+		ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:35:25-82
+action#android.app.action.NOTIFICATION_CHANNEL_BLOCK_STATE_CHANGED
+ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:36:17-102
+	android:name
+		ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:36:25-99
+action#android.app.action.NOTIFICATION_CHANNEL_GROUP_BLOCK_STATE_CHANGED
+ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:37:17-108
+	android:name
+		ADDED from [notifee_core_release.aar] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\2538c299e49b5e530a41aaeffe08ad97\notifee_core_release\AndroidManifest.xml:37:25-105
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:react-native-community_netinfo] E:\Apps\Landchat\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\release\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [:react-native-community_netinfo] E:\Apps\Landchat\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\release\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:react-native-firebase_storage] E:\Apps\Landchat\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from [:react-native-firebase_storage] E:\Apps\Landchat\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:22-77
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\af4263f3ebd287f912db9378808ca9c3\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:82:9-88:19
+MERGED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:82:9-88:19
+MERGED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\28a420cb0c2eb37a546e840ecd6f4230\firebase-storage-19.2.0\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\28a420cb0c2eb37a546e840ecd6f4230\firebase-storage-19.2.0\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\af4263f3ebd287f912db9378808ca9c3\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:19:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\af4263f3ebd287f912db9378808ca9c3\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:18:13-84
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\af4263f3ebd287f912db9378808ca9c3\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\af4263f3ebd287f912db9378808ca9c3\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\af4263f3ebd287f912db9378808ca9c3\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:21:17-111
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:31:9-37:35
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:33:13-68
+	android:multiprocess
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:36:13-40
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:32:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:39:9-44:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:43:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:44:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:45:9-51:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:48:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:49:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:50:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:51:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:47:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:46:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:52:9-57:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:55:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:56:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:57:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:53:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:59:9-64:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:62:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:63:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:64:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:61:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:60:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:65:9-75:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:68:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:69:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:70:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:67:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:66:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:71:13-74:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:72:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:72:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:73:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:73:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:76:9-86:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:79:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:80:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:81:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:78:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:77:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:82:13-85:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:83:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:83:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:84:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:84:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:87:9-97:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:90:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:91:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:92:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:89:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:88:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:93:13-96:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:94:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:94:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:95:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:95:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:98:9-107:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:101:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:102:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:103:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:100:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:99:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:104:13-106:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:105:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:105:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:108:9-119:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:111:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:112:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:113:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:110:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:109:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:114:13-118:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:115:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:115:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:116:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:116:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:117:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:117:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:120:9-129:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:123:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:124:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:125:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:122:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:121:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:126:13-128:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:127:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:127:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:130:9-140:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:133:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:134:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:135:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:136:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:132:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:131:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:137:13-139:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:138:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\25d707dea905c3657f02cf3aa038a4cd\work-runtime-2.4.0\AndroidManifest.xml:138:25-85
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\6a300d6b98ca8de8170697ae562770a8\play-services-auth-18.1.0\AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:27:9-34:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:32:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:33:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:34:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:28:13-85
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:35:9-52:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:37:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:39:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:38:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:40:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:36:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:41:13-51:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:42:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:44:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:44:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:45:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:45:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:47:17-50:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:49:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:48:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:50:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:53:9-70:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:55:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:57:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:56:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:58:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:54:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:59:13-69:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:72:9-81:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:74:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:75:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:73:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:76:13-80:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:77:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:77:25-86
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:85:13-87:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:87:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\a0372641fedc493961cb660dfbed04b4\jetified-firebase-auth-20.0.0\AndroidManifest.xml:86:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\28a420cb0c2eb37a546e840ecd6f4230\firebase-storage-19.2.0\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\28a420cb0c2eb37a546e840ecd6f4230\firebase-storage-19.2.0\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\28a420cb0c2eb37a546e840ecd6f4230\firebase-storage-19.2.0\AndroidManifest.xml:34:17-107
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\575df7e4a0d11bf4351c47678a5d8003\jetified-firebase-common-19.3.1\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\0b6249500b8009a9eb57f214c32dfafc\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\0b6249500b8009a9eb57f214c32dfafc\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\0b6249500b8009a9eb57f214c32dfafc\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\0b6249500b8009a9eb57f214c32dfafc\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\8db0c209c952acbdb50ee2913d2a485e\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\8db0c209c952acbdb50ee2913d2a485e\jetified-play-services-basement-17.3.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\8db0c209c952acbdb50ee2913d2a485e\jetified-play-services-basement-17.3.0\AndroidManifest.xml:24:13-58
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\798bfc5fb31098c1c5f6c1d8f18439f9\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\798bfc5fb31098c1c5f6c1d8f18439f9\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\798bfc5fb31098c1c5f6c1d8f18439f9\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Hamoda\.gradle\caches\transforms-2\files-2.1\798bfc5fb31098c1c5f6c1d8f18439f9\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
